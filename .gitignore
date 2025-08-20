@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+
+!Strategies
+!Strategies/*
+Strategies/@SampleMultiTimeFrame.cs
+Strategies/@SampleMACrossOver.cs
+Strategies/@Strategy.cs
+Strategies/@SampleMultiInstrument.cs
+Strategies/@SampleAtmStrategy.cs
